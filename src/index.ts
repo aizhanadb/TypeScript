@@ -1,0 +1,1 @@
+let number: number[] = [1, 2, 3]; 
